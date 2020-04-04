@@ -1,0 +1,68 @@
+body {
+    background-image:url(../images/skyline.jpg);
+    background-repeat: no-repeat fixed;
+    background-size:cover;
+    position:relative;
+    min-height:100%;
+    width:100%
+    font-size: 12pt;
+    font-family: "DejaVu Serif", "FreeSerif", Serif
+}
+
+table {
+    text-align: center;
+    border: 1px solid black;
+}
+
+td {
+    vertical-align: top;
+}
+
+#mainBodyTable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+#title {
+
+}
+
+#projects {
+    background-color: #8bb8e8;
+}
+
+#articles {
+    background-color: #8bb8e8;
+}
+
+#publications {
+    background-color: #8bb8e8;
+}
+
+#fun {
+    background-color: #ffd100;
+}
+
+#about {
+    background-color: #ffd100;
+}
+
+#contact {
+    background-color: #ffd100;
+}
+
+ul {
+    text-align: left;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
